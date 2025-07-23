@@ -14,14 +14,14 @@
 
 ## 🛠 技術スタック
 
-<table>
+<table width="100%" style="table-layout: fixed;">
   <colgroup>
     <col style="width:50%;">
     <col style="width:50%;">
   </colgroup>
   <tr>
     <td valign="top">
-    
+
 ### 🤖 AI・機械学習
 
 | 技術分野           | スキル                                     |
@@ -86,7 +86,7 @@
 
 ## 🚀 ポートフォリオの主なプロジェクト
 
-<table>
+<table width="100%" style="table-layout: fixed;">
   <colgroup>
     <col style="width:50%;">
     <col style="width:50%;">

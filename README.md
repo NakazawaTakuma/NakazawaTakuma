@@ -16,7 +16,7 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 
 ## 🛠 Technical Stack
 
-<table>
+<table width="100%" style="table-layout: fixed;">
   <colgroup>
     <col style="width:50%;">
     <col style="width:50%;">
@@ -90,7 +90,7 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 
 ## 🚀 Featured Portfolio Projects
 
-<table>
+<table width="100%" style="table-layout: fixed;">
   <colgroup>
     <col style="width:50%;">
     <col style="width:50%;">

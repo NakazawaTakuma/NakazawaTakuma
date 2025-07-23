@@ -17,8 +17,12 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 ## 🛠 Technical Stack
 
 <table>
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
 
 ### 🤖 AI & Machine Learning
 
@@ -46,8 +50,8 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 | **Payment Systems**           | Stripe integration                     |
 | **Authentication & Security** | Authentication systems, API management |
 
-</td>
-<td valign="top" width="50%">
+  </td>
+    <td valign="top">
 
 ### 🎨 3D Technology
 
@@ -76,17 +80,23 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 | **Adobe**  | Photoshop         |
 | **Office** | Excel, PowerPoint |
 
-</td>
+
+  </td>
   </tr>
 </table>
+
 
 ---
 
 ## 🚀 Featured Portfolio Projects
 
 <table>
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
 
 ### 🌾 Edge AI × Image Recognition (IoT)
 
@@ -142,8 +152,8 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 
 ![Php](assets/Php.png)
 
-</td>
-<td valign="top" width="50%">
+  </td>
+    <td valign="top">
 
 ### 🌐 SaaS Web Application
 
@@ -198,7 +208,7 @@ C++: [face_uvmap_cpp](https://github.com/NakazawaTakuma/face_uvmap_cpp)
 - University and graduate school research with paper publication
 - Analysis automation with Python and visualization using Matplotlib & Excel
 
-</td>
+    </td>
   </tr>
 </table>
 

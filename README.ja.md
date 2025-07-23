@@ -15,9 +15,13 @@
 ## 🛠 技術スタック
 
 <table>
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
   <tr>
-    <td valign="top" width="50%">
-
+    <td valign="top">
+    
 ### 🤖 AI・機械学習
 
 | 技術分野           | スキル                                     |
@@ -45,7 +49,7 @@
 | **認証・セキュリティ** | 認証システム構築, API 管理        |
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### 🎨 3D 技術
 
@@ -83,8 +87,12 @@
 ## 🚀 ポートフォリオの主なプロジェクト
 
 <table>
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
 
 ### 🌾 エッジ AI × 画像認識（IoT 向け）
 
@@ -141,7 +149,7 @@
 ![Php](assets/Php.png)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### 🌐 SaaS Web アプリケーション
 
@@ -196,7 +204,7 @@ C++: [face_uvmap_cpp](https://github.com/NakazawaTakuma/face_uvmap_cpp)
 - 大学、大学院で研究。論文執筆。
 - Python による解析の自動化と Matplotlib, Excel による可視化。
 
-</td>
+    </td>
   </tr>
 </table>
 

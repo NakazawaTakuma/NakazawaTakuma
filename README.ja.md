@@ -86,13 +86,6 @@
 
 ## 🚀 ポートフォリオの主なプロジェクト
 
-<table width="100%" style="table-layout: fixed;">
-  <colgroup>
-    <col style="width:50%;">
-    <col style="width:50%;">
-  </colgroup>
-  <tr>
-    <td valign="top">
 
 ### 🌾 エッジ AI × 画像認識（IoT 向け）
 
@@ -148,8 +141,7 @@
 
 ![Php](assets/Php.png)
 
-</td>
-<td valign="top">
+---
 
 ### 🌐 SaaS Web アプリケーション
 
@@ -204,9 +196,6 @@ C++: [face_uvmap_cpp](https://github.com/NakazawaTakuma/face_uvmap_cpp)
 - 大学、大学院で研究。論文執筆。
 - Python による解析の自動化と Matplotlib, Excel による可視化。
 
-    </td>
-  </tr>
-</table>
 
 ---
 

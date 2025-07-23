@@ -98,7 +98,8 @@
 
 📄 プロジェクト → [Smart Agriculture Edge AI](https://github.com/NakazawaTakuma/smart-agri-edge-ai)
 
-![ImgReco](assets/ImgReco.gif)
+
+<img src="assets/ImgReco.gif" alt="ImgReco" style="max-width: 400px; height: auto;">
 
 ---
 
@@ -112,7 +113,7 @@
 
 📄 プロジェクト → [blender-face-dataset-generator](https://github.com/NakazawaTakuma/3d-face-dataset-generator)
 
-![geneFace](assets/geneFace.png)
+<img src="assets/geneFace.png" alt="geneFace" style="max-width: 400px; height: auto;">
 
 ---
 
@@ -141,7 +142,7 @@
 
 📄 プロジェクト → [Cocoon Child – Game Detail](https://github.com/NakazawaTakuma/cocoon-child-game-list)
 
-![Php](assets/Php.png)
+<img src="assets/Php.png" alt="Php" style="max-width: 400px; height: auto;">
 
 ---
 
@@ -158,7 +159,7 @@
 
 📄 プロジェクト → [AudioGen SaaS](https://github.com/NakazawaTakuma/audiogen-saas-app)
 
-![Saas](assets/Saas.png)
+<img src="assets/Saas.png" alt="Saas" style="max-width: 400px; height: auto;">
 
 ---
 
@@ -173,7 +174,7 @@
 
 [![Demo UEFN](https://img.youtube.com/vi/PbdRH_HzAqM/0.jpg)](https://www.youtube.com/watch?v=PbdRH_HzAqM)
 
-![UEFN](assets/UEFN.gif)
+<img src="assets/UEFN.gif" alt="UEFN" style="max-width: 400px; height: auto;">
 
 ---
 

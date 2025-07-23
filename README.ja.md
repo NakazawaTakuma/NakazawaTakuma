@@ -218,13 +218,21 @@ C++: [face_uvmap_cpp](https://github.com/NakazawaTakuma/face_uvmap_cpp)
 
 ## 📈 技術的強み
 
-### 🔄 フルスタック開発力
+### 🤝 多領域シナジー
+
+Web・3D・AI・工学を横断する知識
+
+### 🌐 フルスタック Web 開発力 
 
 フロントエンド（React/Next.js）からバックエンド（Python/Django）、AI 統合まで一貫した開発が可能
 
-### 🤖 AI 統合エキスパート
+### エッジ＆クラウド統合開発力  
 
-生成 AI（Stable Diffusion）や機械学習フレームワーク（TensorFlow/PyTorch）を活用したアプリケーション開発
+エッジデバイス（Jetson Nano／Raspberry Pi）からクラウドベースの SaaS Web アプリまで、要件定義〜設計・実装・デプロイまで一貫して推進
+
+### 💼 商用アプリケーション構築
+
+認証、決済、API 管理を含む実用的な SaaS アプリケーション開発経験
 
 ### 🎨 3D・クリエイティブ技術
 
@@ -233,10 +241,6 @@ C++: [face_uvmap_cpp](https://github.com/NakazawaTakuma/face_uvmap_cpp)
 ### ⚡ 高性能コンピューティング
 
 C++による最適化と Python バインディングを組み合わせた効率的なソリューション開発
-
-### 💼 商用アプリケーション構築
-
-認証、決済、API 管理を含む実用的な SaaS アプリケーション開発経験
 
 ---
 

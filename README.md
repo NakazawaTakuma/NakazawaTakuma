@@ -222,25 +222,23 @@ C++: [face_uvmap_cpp](https://github.com/NakazawaTakuma/face_uvmap_cpp)
 
 ## 📈 Technical Strengths
 
-### 🔄 Full-Stack Development Capabilities
+### 🤝 Cross‑Domain Synergy  
+Broad expertise spanning Web, 3D, AI, and engineering
 
-Capable of end-to-end development from frontend (React/Next.js) to backend (Python/Django) and AI integration
+### 🌐 Full‑Stack Web Development  
+End‑to‑end implementation from frontend (React/Next.js) to backend (Python/Django) and AI integration
 
-### 🤖 AI Integration Expert
+### 🚀 Edge & Cloud Integrated Development  
+Seamless delivery from edge devices (Jetson Nano/Raspberry Pi) to cloud‑based SaaS applications—requirements gathering, design, implementation, and deployment
 
-Application development utilizing generative AI (Stable Diffusion) and machine learning frameworks (TensorFlow/PyTorch)
+### 💼 Commercial Application Engineering  
+Hands‑on experience building production‑grade SaaS applications with authentication, payment processing, and API management
 
-### 🎨 3D & Creative Technology
+### 🎨 3D & Creative Technologies  
+Advanced 3D processing and visualization techniques leveraged on an engineering background
 
-Advanced 3D processing and visualization techniques leveraging engineering background
-
-### ⚡ High-Performance Computing
-
-Efficient solution development combining C++ optimization with Python bindings
-
-### 💼 Commercial Application Development
-
-Experience in developing practical SaaS applications including authentication, payments, and API management
+### ⚡ High‑Performance Computing  
+Efficient solutions combining C++ optimization with Python bindings  
 
 ---
 

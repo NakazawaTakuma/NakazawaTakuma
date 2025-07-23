@@ -129,6 +129,7 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 
 📄 Project → [soundpack-generator](https://github.com/NakazawaTakuma/soundpack-generator)
 
+🎞️ Video ↓
 [![Demo SOUNDS](https://img.youtube.com/vi/qlhQRn4cVPc/0.jpg)](https://www.youtube.com/watch?v=qlhQRn4cVPc)
 
 ---
@@ -171,6 +172,7 @@ Freelance engineer specializing in **AI, 3D, Python, and Web Development** after
 - Comprehensive responsibility for 3D modeling, animation, and programming
 - Interactive experience development for Fortnite (in progress)
 
+🎞️ Video ↓
 [![Demo UEFN](https://img.youtube.com/vi/PbdRH_HzAqM/0.jpg)](https://www.youtube.com/watch?v=PbdRH_HzAqM)
 
 ![UEFN](assets/UEFN.gif)

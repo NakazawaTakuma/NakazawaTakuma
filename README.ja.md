@@ -125,6 +125,7 @@
 
 📄 プロジェクト → [soundpack-generator](https://github.com/NakazawaTakuma/soundpack-generator)
 
+🎞️ Video ↓
 [![Demo SOUNDS](https://img.youtube.com/vi/qlhQRn4cVPc/0.jpg)](https://www.youtube.com/watch?v=qlhQRn4cVPc)
 
 ---
@@ -167,6 +168,7 @@
 - 3D モデリング、アニメーション、プログラミングを一貫して担当
 - Fortnite 向けのインタラクティブ体験を開発中
 
+🎞️ Video ↓
 [![Demo UEFN](https://img.youtube.com/vi/PbdRH_HzAqM/0.jpg)](https://www.youtube.com/watch?v=PbdRH_HzAqM)
 
 ![UEFN](assets/UEFN.gif)

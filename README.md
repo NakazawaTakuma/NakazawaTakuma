@@ -1,6 +1,6 @@
 # 🧑‍💻 Takemura
 
-**AI, 3D, Python, and Web Development** after completing a Master's degree in Mechanical Engineering.
+**3D, Python, and Web Development** after completing a Master's degree in Mechanical Engineering.
 
 📄 日本語版はこちら → [README.ja.md](README.ja.md)
 

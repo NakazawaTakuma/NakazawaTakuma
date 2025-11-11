@@ -67,7 +67,6 @@
 | **CAD**            | Autodesk Inventor, Fusion360 |
 | **プログラミング** | Python（解析自動化、可視化） |
 | **可視化**         | Matplotlib                   |
-| **学術背景**       | 機械工学修士                 |
 
 ### 📊 その他スキル
 
